@@ -18,7 +18,7 @@ Libraries used:
 
 ## Usage
 
-Download and unzip neighborhood-map-project. Open index.html in your browser of choice. Type the name of one of the five listed locations into the input box. Click the locations marker and read a short reason as to why it's one of my favorite places in Waldo, Kansas City MO. Also check out the relevant Wikipedia links to Kansas City.
+Download and unzip neighborhood-map-project-udacity. Open index.html in your browser of choice. Type the name of one of the five listed locations into the input box. Click the locations marker and read a short reason as to why it's one of my favorite places in Waldo, Kansas City MO. Also check out the relevant Wikipedia links to Kansas City.
 
 
 ## Contributing

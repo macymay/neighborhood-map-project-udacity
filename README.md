@@ -28,7 +28,7 @@ Feel free to do what you please with this project. Add and/or change anything yo
 
 ### Sources
 
-* [info windows](https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple)
+* [info Windows](https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple)
 * [Displaying Multiple Markers at Once](https://wrightshq.com/playground/placing-multiple-markers-on-a-google-map-using-api-3/)
 * [Search Box w/Google Maps](https://www.youtube.com/watch?v=2n_r0NDekgc)
 * [Knockout.js and Google Maps](https://www.packtpub.com/books/content/using-google-maps-apis-knockoutjs)

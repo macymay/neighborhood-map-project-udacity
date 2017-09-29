@@ -1,0 +1,59 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+#map_wrapper {
+  height: 100%;
+}
+
+#map_canvas {
+  width: 100%;
+  height: 100%;
+}
+
+aside {
+  position: absolute;
+  overflow: auto;
+  top: 10px;
+  left: 0%;
+  z-index: 5;
+  background-color: #9dcfd4;
+  padding: 5px;
+  border: 3px solid #9dcfd4;
+  border-style: outset;
+  line-height: 30px;
+  padding-left: 10px;
+}
+
+.info_content {
+  font-family: 'Raleway', sans-serif;
+}
+
+.search-box {
+  width: inherit;
+}
+
+.form-control {
+  border: 10px solid #9dcfd4;
+  border-style: inset;
+}
+
+.toggle-menu {
+  display: none;
+}
+
+@media only screen and (max-width: 750px) {
+    aside {
+        width: 320px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    aside {
+        width: 270px;
+    }
+}
